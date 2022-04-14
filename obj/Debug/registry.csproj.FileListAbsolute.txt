@@ -1,0 +1,11 @@
+D:\Projects\ISA\registry\bin\Debug\registry.exe.config
+D:\Projects\ISA\registry\bin\Debug\registry.exe
+D:\Projects\ISA\registry\bin\Debug\registry.pdb
+D:\Projects\ISA\registry\obj\Debug\registry.csproj.AssemblyReference.cache
+D:\Projects\ISA\registry\obj\Debug\registry.csproj.SuggestedBindingRedirects.cache
+D:\Projects\ISA\registry\obj\Debug\registry.Form1.resources
+D:\Projects\ISA\registry\obj\Debug\registry.Properties.Resources.resources
+D:\Projects\ISA\registry\obj\Debug\registry.csproj.GenerateResource.cache
+D:\Projects\ISA\registry\obj\Debug\registry.csproj.CoreCompileInputs.cache
+D:\Projects\ISA\registry\obj\Debug\registry.exe
+D:\Projects\ISA\registry\obj\Debug\registry.pdb
